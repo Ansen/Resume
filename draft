@@ -6,7 +6,7 @@
  * 学历：大专
  * 出生年月：1989/09
  * 手机：18080804441
- * Q Q ：690699118
+ * Q Q ：790003508
  * E-mail: shen.an89@gmail.com
 
 ---
@@ -15,19 +15,49 @@
 
 - 熟悉 Linux 系统及常用命令；
 - 熟悉 Linux 流行应用部署，如：LNMP、vsftp 、SVN、git等；
-- 熟练使用 Shell & Python 开发运维脚本；
+- 熟练使用 Shell & Python & Go 开发运维脚本；
 - 熟练使用 flask/django 开发WEB运维平台
-- 熟练使用 SaltStack；
+- 熟练使用 SaltStack & Ansible；
 - 熟悉 Haproxy 配置部署；
 - 熟悉 LVS 负载均衡相关原理；
-- MySQL/SQLServer 配置与主从搭建，数据恢复；
+- MySQL 配置与主从搭建，数据恢复；
+- 熟悉 Hadoop 的 HDFS、Yarn、Spark、Hive、HBase等组件部署
+- 熟悉 Go 语言 及 Gin 框架
 
 ---
 
 ## 工作经历
+
+#### 成都止观互娱科技有限公司
+
+2018年06月 ~ 至今
+> 工作内容:
+1. 游戏运维：
+   - 负责线上游戏日常维护
+   - 使用 shell & python & go 编写运维脚本
+   - MySQL 的简单调优
+   - Redis 持久化及其备份优化
+   - `Zabbix` 部署与维护，如：触发器、discovery、LLD等
+   - 新项目上线准备工作，包括：服务器架构、系统环境、数据安全、监控预警等
+   - 搭建运维文档系统，建立运维工作流程
+2. 运维自动化：
+   - 使用 Ansible Playbook 编写日常运维脚本及服务器管理
+   - 使用 `django` 开发WEB运维平台及游戏部分GM功能
+   - 使用 `Go & gin & vue.js` 对运维平台进行重构
+3. 大数据平台：
+   - 使用Hadoop组件:HDFS、Yarn、Spark、HBase、Hive等组件部署运营大数据平台
+   - 使用 kafka 部署及维护日志消息系统
+   - 对 kudu 进行调优
+4. SDK 平台：
+   - 服务器架构设计及部署
+   - 负载均衡系统的搭建(基于Nginx)
+   - MySQL、Redis 数据库的部署及优化
+5. 其它：
+   - 
+
 #### 成都千层塔科技有限公司
 
-2016年06月 ~ 至今
+2016年06月 ~ 2018年05月
 > 工作内容:
 1. 游戏运维：
    - 负责线上游戏日常维护
